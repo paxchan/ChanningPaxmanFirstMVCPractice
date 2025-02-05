@@ -28,3 +28,4 @@
 /Users/test/RiderProjects/WebApplicationPractice/WebApplicationPractice/obj/Debug/net8.0/WebApplicationPractice.pdb
 /Users/test/RiderProjects/WebApplicationPractice/WebApplicationPractice/obj/Debug/net8.0/WebApplicationPractice.genruntimeconfig.cache
 /Users/test/RiderProjects/WebApplicationPractice/WebApplicationPractice/obj/Debug/net8.0/ref/WebApplicationPractice.dll
+/Users/test/RiderProjects/WebApplicationPractice/WebApplicationPractice/obj/Debug/net8.0/WebApplicationPractice.sourcelink.json
